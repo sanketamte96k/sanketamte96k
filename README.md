@@ -3,79 +3,118 @@
 <img src="./banner.png" width="100%" alt="Sanket Amte - Developer">
 
 </div>
-# Hi, I'm Sanket Amte 👋
 
-### B.Tech IT Student | Java & DSA | Backend & Full-Stack Developer
+## 👋 About Me
 
-I'm a third-year B.Tech IT student focused on building practical software, strengthening problem-solving skills, and developing a strong foundation in Java, backend development, and full-stack web development.
+I'm a third-year **B.Tech Information Technology student** focused on building real-world software, strengthening problem-solving skills, and growing as a software developer.
 
-## 🚀 About Me
-
-- 🎓 B.Tech Information Technology student
-- ☕ Currently focused on **Java & Data Structures and Algorithms**
+- 🎓 B.Tech Information Technology Student
+- ☕ Focused on **Java & Data Structures and Algorithms**
 - ⚙️ Building backend applications with **Python, Flask & MySQL**
-- 🌐 Interested in **Backend & Full-Stack Development**
-- 🧠 Practicing DSA for software-development placements
-- 📚 Continuously learning, building, and improving
+- 🌐 Exploring **Backend & Full-Stack Development**
+- 🧠 Practicing DSA for software engineering interviews
+- 🚀 Building projects to strengthen practical development skills
+
+---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
+
 `Java` `Python` `SQL`
 
-### Web & Backend
+### 🌐 Web & Backend
+
 `HTML` `CSS` `JavaScript` `Flask` `SQLAlchemy` `REST APIs`
 
-### Database
+### 🗄️ Databases
+
 `MySQL` `SQLite`
 
-### Tools
+### 🔧 Tools & Platforms
+
 `Git` `GitHub` `VS Code`
+
+---
 
 ## 📌 Featured Projects
 
 ### 🛒 Flipkart Clone
 
-A full-stack e-commerce platform inspired by Flipkart with customer shopping features and an admin management system.
+A full-stack e-commerce platform inspired by Flipkart, featuring customer shopping functionality and an admin management system.
 
-**Tech:** Flask · MySQL · SQLAlchemy · HTML · CSS · JavaScript
+**Tech Stack:**  
+`Flask` `MySQL` `SQLAlchemy` `HTML` `CSS` `JavaScript`
 
-→ [View Repository](https://github.com/sanketamte96k/Flipkart-clone)
-
-### 🎓 College Admission System
-
-A full-stack college admission management system designed to simplify the student admission workflow.
-
-**Tech:** Flask · MySQL · HTML · CSS · JavaScript
-
-→ [View Repository](https://github.com/sanketamte96k/College-Admission-System)
-
-### ☕ Java-Mastery
-
-My Java learning repository covering Core Java, OOP, arrays, algorithms, and problem-solving practice.
-
-**Tech:** Java · DSA
-
-→ [View Repository](https://github.com/sanketamte96k/Java-Mastery)
-
-## 🎯 Current Focus
-
-- Java & Object-Oriented Programming
-- Data Structures & Algorithms
-- SQL & Database Management
-- Backend Development
-- REST APIs
-- Software Engineering Interview Preparation
-
-## 💼 Career Goal
-
-To become a strong **Software Developer / Backend Engineer** by mastering DSA, building real-world applications, and continuously improving my problem-solving skills.
-
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanket-amte-a55a61332/)
-- 🐙 [GitHub](https://github.com/sanketamte96k)
+🔗 [View Repository](https://github.com/sanketamte96k/Flipkart-clone)
 
 ---
 
+### 🎓 College Admission System
+
+A full-stack college admission management system designed to simplify student applications and admission workflows.
+
+**Tech Stack:**  
+`Flask` `MySQL` `HTML` `CSS` `JavaScript`
+
+🔗 [View Repository](https://github.com/sanketamte96k/College-Admission-System)
+
+---
+
+### ☕ Java-Mastery
+
+My Java learning repository covering Core Java, OOP, arrays, algorithms, problem-solving, and programming practice.
+
+**Tech Stack:**  
+`Java` `DSA`
+
+🔗 [View Repository](https://github.com/sanketamte96k/Java-Mastery)
+
+---
+
+### 🎮 Ignitera Gamified Learning
+
+A gamified learning platform designed to make education more interactive through quizzes, challenges, and game-based learning.
+
+**Tech Stack:**  
+`HTML` `CSS` `JavaScript`
+
+🔗 [View Repository](https://github.com/sanketamte96k/ignitera-gamified-learning)
+
+---
+
+## 🎯 Current Focus
+
+| Focus Area | Goal |
+|---|---|
+| ☕ Java & OOP | Strengthening Core Java concepts |
+| 🧠 DSA | Improving problem-solving & algorithms |
+| 🗄️ SQL & DBMS | Writing efficient queries & understanding databases |
+| ⚙️ Backend Development | Building APIs and server-side applications |
+| 🌐 Full-Stack Development | Creating complete web applications |
+| 💼 Interview Preparation | Preparing for Software Engineering roles |
+
+---
+
+## 💼 Career Goal
+
+To become a strong **Software Developer / Backend Engineer** by mastering Data Structures & Algorithms, building real-world applications, and continuously improving my software engineering skills.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-amte-a55a61332/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketamte96k)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 💡 Building. Learning. Improving. One project at a time.
+
+</div>
