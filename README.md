@@ -1,3 +1,8 @@
+<div align="center">
+
+<img src="./banner.png" width="100%" alt="Sanket Amte - Developer">
+
+</div>
 # Hi, I'm Sanket Amte 👋
 
 ### B.Tech IT Student | Java & DSA | Backend & Full-Stack Developer
