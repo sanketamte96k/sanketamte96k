@@ -67,19 +67,13 @@ A gamified learning platform designed to make education more interactive through
 🔗 [View Repository](https://github.com/sanketamte96k/ignitera-gamified-learning)
 
 ---
+---
 
 ## 🎯 Current Focus
 
-| Focus Area | Goal |
-|---|---|
-| ☕ Java & OOP | Strengthening Core Java concepts |
-| 🧠 DSA | Improving problem-solving & algorithms |
-| 🗄️ SQL & DBMS | Writing efficient queries & understanding databases |
-| ⚙️ Backend Development | Building APIs and server-side applications |
-| 🌐 Full-Stack Development | Creating complete web applications |
-| 💼 Interview Preparation | Preparing for Software Engineering roles |
-
----
+<p align="center">
+  <img src="./current focus banner.png" alt="Sanket Amte - Current Focus" width="100%">
+</p>
 
 ## 💼 Career Goal
 
