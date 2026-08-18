@@ -21,7 +21,6 @@ I'm a third-year **B.Tech Information Technology student** focused on building r
 <p align="center">
   <img src="./tech-stack-banner.png" alt="Tech Stack" width="100%">
 </p>
----
 
 ## 📌 Featured Projects
 
