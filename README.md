@@ -19,8 +19,40 @@ I'm a third-year **B.Tech Information Technology student** focused on backend an
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="./tech-stack-banner.png" width="100%" alt="Sanket Amte Tech Stack">
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### Backend & Web
+
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white">
+  <img src="https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</p>
+
+### Databases
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white">
 </p>
 
 ---
@@ -29,7 +61,7 @@ I'm a third-year **B.Tech Information Technology student** focused on backend an
 
 ### 🛒 Flipkart Clone
 
-A full-stack e-commerce platform with customer shopping, authentication, cart and order management, admin operations, database integration, Razorpay payment flow, testing, and production deployment.
+A full-stack e-commerce platform with customer shopping, authentication, cart and wishlist functionality, database-backed orders, admin management, order tracking, cancellation and returns, Razorpay payment integration, automated testing, Docker support, and production deployment.
 
 **Tech:** `Python` `Flask` `MySQL` `SQLAlchemy` `HTML` `CSS` `JavaScript` `Razorpay` `Docker`
 
@@ -39,7 +71,7 @@ A full-stack e-commerce platform with customer shopping, authentication, cart an
 
 ### 🎓 College Admission System
 
-A full-stack admission management system designed to simplify student applications, admission workflows, and administrative management.
+A full-stack college admission management system designed to simplify student applications, admission workflows, and administrative management.
 
 **Tech:** `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
 
@@ -69,14 +101,14 @@ A gamified learning platform designed to make education more interactive through
 
 ## 🎯 Current Focus
 
-| Area | Goal |
+| Focus Area | Goal |
 |---|---|
-| Java & OOP | Strengthening core Java concepts |
-| DSA | Improving problem solving and algorithms |
-| SQL & DBMS | Writing efficient queries and understanding databases |
-| Backend Development | Building APIs and server-side applications |
-| Full-Stack Development | Building complete web applications |
-| Interview Preparation | Preparing for software engineering roles |
+| ☕ Java & OOP | Strengthening core Java concepts |
+| 🧠 DSA | Improving problem solving and algorithms |
+| 🗄️ SQL & DBMS | Writing efficient queries and understanding databases |
+| ⚙️ Backend Development | Building APIs and server-side applications |
+| 🌐 Full-Stack Development | Building complete web applications |
+| 💼 Interview Preparation | Preparing for software engineering roles |
 
 ---
 
@@ -89,17 +121,19 @@ To become a strong **Software Developer / Backend Engineer** by mastering Data S
 ## 🤝 Connect With Me
 
 <p align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sanketamte96k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketamte96k)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanket--amte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-amte-a55a61332/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-sanketamte96k-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sanketamte96k/)
-
+  <a href="https://github.com/sanketamte96k">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sanket-amte-a55a61332/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/sanketamte96k/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
 </p>
 
----
-
-<div align="center">
-
-**Building. Learning. Improving. One project at a time.**
-
-</div>
+<p align="center">
+  <sub>Open to learning, collaboration, and building meaningful software.</sub>
+</p>
