@@ -1,35 +1,37 @@
 <div align="center">
 
-<img src="./profile banner.png" width="100%" alt="Sanket Amte - Developer">
+<img src="./profile banner.png" width="100%" alt="Sanket Amte - Backend & Full-Stack Developer">
 
 </div>
 
 ## 👋 About Me
 
-I'm a third-year **B.Tech Information Technology student** focused on building real-world software, strengthening problem-solving skills, and growing as a software developer.
+I'm a third-year **B.Tech Information Technology student** focused on backend and full-stack development, problem solving, and building practical software projects.
 
 - 🎓 B.Tech Information Technology Student
-- ☕ Focused on **Java & Data Structures and Algorithms**
+- ☕ Strengthening **Java, OOP, Data Structures & Algorithms**
 - ⚙️ Building backend applications with **Python, Flask & MySQL**
 - 🌐 Exploring **Backend & Full-Stack Development**
-- 🧠 Practicing DSA for software engineering interviews
-- 🚀 Building projects to strengthen practical development skills
+- 🧠 Practicing DSA and problem solving for software engineering interviews
+- 🚀 Building real-world projects to strengthen development skills
 
 ---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="./tech-stack-banner.png" alt="Tech Stack" width="100%">
+  <img src="./tech-stack-banner.png" width="100%" alt="Sanket Amte Tech Stack">
 </p>
 
-## 📌 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 ### 🛒 Flipkart Clone
 
-A full-stack e-commerce platform inspired by Flipkart, featuring customer shopping functionality and an admin management system.
+A full-stack e-commerce platform with customer shopping, authentication, cart and order management, admin operations, database integration, Razorpay payment flow, testing, and production deployment.
 
-**Tech Stack:**  
-`Flask` `MySQL` `SQLAlchemy` `HTML` `CSS` `JavaScript`
+**Tech:** `Python` `Flask` `MySQL` `SQLAlchemy` `HTML` `CSS` `JavaScript` `Razorpay` `Docker`
 
 🔗 [View Repository](https://github.com/sanketamte96k/Flipkart-clone)
 
@@ -37,10 +39,9 @@ A full-stack e-commerce platform inspired by Flipkart, featuring customer shoppi
 
 ### 🎓 College Admission System
 
-A full-stack college admission management system designed to simplify student applications and admission workflows.
+A full-stack admission management system designed to simplify student applications, admission workflows, and administrative management.
 
-**Tech Stack:**  
-`Flask` `MySQL` `HTML` `CSS` `JavaScript`
+**Tech:** `Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
 
 🔗 [View Repository](https://github.com/sanketamte96k/College-Admission-System)
 
@@ -48,10 +49,9 @@ A full-stack college admission management system designed to simplify student ap
 
 ### ☕ Java-Mastery
 
-My Java learning repository covering Core Java, OOP, arrays, algorithms, problem-solving, and programming practice.
+A Java learning repository covering Core Java, OOP, arrays, problem solving, algorithms, and programming practice.
 
-**Tech Stack:**  
-`Java` `DSA`
+**Tech:** `Java` `OOP` `DSA`
 
 🔗 [View Repository](https://github.com/sanketamte96k/Java-Mastery)
 
@@ -61,19 +61,24 @@ My Java learning repository covering Core Java, OOP, arrays, algorithms, problem
 
 A gamified learning platform designed to make education more interactive through quizzes, challenges, and game-based learning.
 
-**Tech Stack:**  
-`HTML` `CSS` `JavaScript`
+**Tech:** `HTML` `CSS` `JavaScript`
 
 🔗 [View Repository](https://github.com/sanketamte96k/ignitera-gamified-learning)
 
 ---
----
 
 ## 🎯 Current Focus
 
-<p align="center">
-  <img src="./current focus banner.png" alt="Sanket Amte - Current Focus" width="100%">
-</p>
+| Area | Goal |
+|---|---|
+| Java & OOP | Strengthening core Java concepts |
+| DSA | Improving problem solving and algorithms |
+| SQL & DBMS | Writing efficient queries and understanding databases |
+| Backend Development | Building APIs and server-side applications |
+| Full-Stack Development | Building complete web applications |
+| Interview Preparation | Preparing for software engineering roles |
+
+---
 
 ## 💼 Career Goal
 
@@ -83,17 +88,18 @@ To become a strong **Software Developer / Backend Engineer** by mastering Data S
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-amte-a55a61332/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketamte96k)
+[![GitHub](https://img.shields.io/badge/GitHub-sanketamte96k-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketamte96k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanket--amte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-amte-a55a61332/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sanketamte96k-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sanketamte96k/)
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💡 Building. Learning. Improving. One project at a time.
+**Building. Learning. Improving. One project at a time.**
 
 </div>
