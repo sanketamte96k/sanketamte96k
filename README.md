@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Sanket Amte - Developer">
+<img src="./profile banner.png" width="100%" alt="Sanket Amte - Developer">
 
 </div>
 
