@@ -16,25 +16,11 @@ I'm a third-year **B.Tech Information Technology student** focused on building r
 - 🚀 Building projects to strengthen practical development skills
 
 ---
-
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-`Java` `Python` `SQL`
-
-### 🌐 Web & Backend
-
-`HTML` `CSS` `JavaScript` `Flask` `SQLAlchemy` `REST APIs`
-
-### 🗄️ Databases
-
-`MySQL` `SQLite`
-
-### 🔧 Tools & Platforms
-
-`Git` `GitHub` `VS Code`
-
+<p align="center">
+  <img src="./tech-stack-banner.png" alt="Tech Stack" width="100%">
+</p>
 ---
 
 ## 📌 Featured Projects
