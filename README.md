@@ -129,7 +129,7 @@ To become a strong **Software Developer / Backend Engineer** by mastering Data S
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/sanketamte96k/">
+  <a href="https://leetcode.com/u/sanket_amte_96k/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
 </p>
