@@ -69,7 +69,7 @@ A full-stack e-commerce platform with customer shopping, authentication, cart an
 
 ---
 
-### 🎓 College Admission System
+### 🎓  College Management & Administration System
 
 A full-stack college admission management system designed to simplify student applications, admission workflows, and administrative management.
 
