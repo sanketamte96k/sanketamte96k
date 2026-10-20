@@ -100,7 +100,6 @@ A modern personal portfolio showcasing my technical skills, projects, developmen
 **Tech:** `React` `TypeScript` `JavaScript` `HTML` `CSS` `Vite`
 
 🔗 [View Repository](https://github.com/sanketamte96k/sanket-portfolio)  
-🚀 [Live Demo](YOUR-LIVE-PORTFOLIO-URL)
 
 ## 🎯 Current Focus
 
