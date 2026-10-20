@@ -83,16 +83,6 @@ A full-stack college admission management system for handling student applicatio
 
 ---
 
-### ☕ Java-Mastery
-
-A Java learning and practice repository covering Core Java, OOP, problem solving, algorithms, and programming fundamentals.
-
-**Tech:** `Java` `OOP` `DSA`
-
-🔗 [View Repository](https://github.com/sanketamte96k/Java-Mastery)
-
----
-
 ### 🎮 Ignitera Gamified Learning
 
 A gamified learning platform designed to make education more interactive through quizzes, challenges, and game-based learning.
@@ -102,6 +92,15 @@ A gamified learning platform designed to make education more interactive through
 🔗 [View Repository](https://github.com/sanketamte96k/ignitera-gamified-learning)
 
 ---
+
+### 🌐 Personal Portfolio
+
+A modern personal portfolio showcasing my technical skills, projects, development journey, and experience as a Java Full Stack Developer with an interest in AI integration.
+
+**Tech:** `React` `TypeScript` `JavaScript` `HTML` `CSS` `Vite`
+
+🔗 [View Repository](https://github.com/sanketamte96k/sanket-portfolio)  
+🚀 [Live Demo](YOUR-LIVE-PORTFOLIO-URL)
 
 ## 🎯 Current Focus
 
