@@ -63,6 +63,16 @@ I'm a third-year **B.Tech Information Technology student** focused on becoming a
 
 ## 🚀 Featured Projects
 
+### 📈 SignalForge
+
+An offline-first quantitative market research platform for **historical market analysis, causal backtesting, paper-trading simulation, and quantitative reporting** for Indian equities, with a strong focus on reproducibility, validation, and avoiding future-data leakage.
+
+**Tech:** `Python` `FastAPI` `React` `Pandas` `NumPy` `Docker` `GitHub Actions`
+
+🔗 [View Repository](https://github.com/sanketamte96k/SignalForge)
+
+---
+
 ### 🛒 Flipkart Clone
 
 A full-stack e-commerce platform with customer shopping, authentication, cart and wishlist functionality, database-backed orders, admin management, order tracking, cancellation and returns, Razorpay payment integration, automated testing, Docker support, and production deployment.
